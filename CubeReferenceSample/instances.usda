@@ -1,0 +1,25 @@
+#usda 1.0
+
+def "sampleA" (
+    references = @./cube.usda@
+)
+{
+}
+
+def "sampleB" (
+    references = @./cube.usda@
+)
+{
+}
+
+def "sampleC" (
+    references = @./cube.usda@
+)
+{
+}
+
+def "sampleD" (
+    references = @./cube.usda@
+)
+{
+}
